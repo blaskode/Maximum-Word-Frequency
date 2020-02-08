@@ -1,4 +1,5 @@
 ## Assignment for Module #2: Calculate Maximum Word Frequency
+## I wrote the code in module2_assignment.rb; the rest of the code was provided.
 
 The overall goal of the assignment is to write a Ruby class and work with
 attributes, methods, hashes, and arrays.
